@@ -1,12 +1,12 @@
 #### 👋 Olá, sou Larissa Benvenuti.
 #### 😄 Pronomes: ela/dela.
-#### 👨‍💻 Atualmente estou estudando desenvolvimento backend e banco de dados relacional.
+#### 👨‍💻 Atualmente estou estudando desenvolvimento front-end, back-end e banco de dados relacional.
 #### ⚡ Objetivos futuros: Aprender mais sobre front-end.
 
 ---
 
 #### - Intro (for english speakers)
-#### Hi there, I’m Larissa Benvenuti (she/her). I’m currently studying backend development and database management. I have some goals such as learning more about frontend development.
+#### Hi there, I’m Larissa Benvenuti (she/her). I’m currently studying front-end & back-end development and database management. I have some goals such as learning more about front-end development.
 ###### I'm a begginer btw. 
 
 ## - 🛠 Linguagens e Ferramentas | Languages and Tools 🛠
