@@ -6,7 +6,7 @@
 ## 👩🏻‍💻 Linguagens e Ferramentas 👩🏻‍💻
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres" />
   </a>
 </div>
 
