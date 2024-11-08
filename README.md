@@ -1,12 +1,12 @@
 ### Olá,
 #### 👋 Sou Larissa Benvenuti.
 #### 😄 Pronomes: ela/dela.
-#### 🌱 Atualmente estou estudando desenvolvimento full-stack, com foco em front-end e desenvolvimento de API.
+#### 🌱 Atualmente estou estudando desenvolvimento full-stack, com foco em desenvolvimento front-end.
 
 ## 👩🏻‍💻 Linguagens e Ferramentas 👩🏻‍💻
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,java,spring,postgres" />
   </a>
 </div>
 
