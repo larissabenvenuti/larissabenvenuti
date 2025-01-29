@@ -1,9 +1,11 @@
+## Intro
+
 ### Olá,
 #### 👋 Sou Larissa Benvenuti.
 #### 😄 Pronomes: ela/dela.
 #### 🌱 Atualmente estou estudando desenvolvimento full-stack, com foco em desenvolvimento web e desenvolvimento de jogos.
 
-//English ver.
+##### //English ver.
 
 ### Hello!
 #### 👋 I'm Larissa Benvenuti.
