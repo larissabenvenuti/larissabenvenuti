@@ -3,14 +3,14 @@
 ### Olá,
 #### 👋 Sou Larissa Benvenuti.
 #### 😄 Pronomes: ela/dela.
-#### 🌱 Atualmente estou estudando desenvolvimento full-stack, com foco em desenvolvimento web e desenvolvimento de jogos.
+#### 🌱 Atualmente estou estudando desenvolvimento full-stack, com foco em desenvolvimento web, análise de dados e desenvolvimento de jogos.
 
 ##### //English ver.
 
 ### Hello!
 #### 👋 I'm Larissa Benvenuti.
 #### 😄 Pronouns: she/her.
-#### 🌱 I'm studying full-stack development, focusing on web & game development
+#### 🌱 I'm studying full-stack development, focusing on web & game development, and also data analysis
 
 ## 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
