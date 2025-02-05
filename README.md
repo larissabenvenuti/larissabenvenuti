@@ -1,12 +1,12 @@
-### Olá,
-#### 👋 I'm Larissa Benvenuti.
-#### 😄 She/her.
-#### 🌱 Currently studying web development, but I have interest in other tech areas as well, such as mobile development and game development.
+### Hi.
+#### - I'm Larissa Benvenuti.
+#### - She/her.
+#### - Currently studying web development, but I'm interested in other tech areas as well, ex: mobile development and game development.
 
 ## 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,nodejs,java,spring,py,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,nodejs,java,spring,postgres" />
   </a>
 </div>
 
