@@ -1,7 +1,7 @@
-#### Hi.
-##### - I'm Larissa Benvenuti.
-##### - She/her.
-##### - Currently studying web development, but I'm interested in other tech areas as well, ex: mobile development and game development.
+### Hi.
+#### - I'm Larissa Benvenuti.
+#### - She/her.
+#### - Currently studying web development, but I'm interested in other tech areas as well, ex: mobile development.
 
 ### 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
