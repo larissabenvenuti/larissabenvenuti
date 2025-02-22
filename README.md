@@ -6,7 +6,7 @@
 ### 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,nodejs,java,spring,figma,postgres" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,nextjs,nodejs,java,spring,figma" />
   </a>
 </div>
 
