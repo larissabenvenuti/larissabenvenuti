@@ -1,13 +1,16 @@
-### Hi.
+## Hi.
 #### - I'm Larissa Benvenuti.
 #### - She/her.
-#### - Currently studying web/mobile development.
+#### - Currently studying web development.
+
 
 ### 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,typescript,nextjs,nodejs,java,spring,figma" />
+    <img src="https://skillicons.dev/icons?i=react,js,typescript,html,css,styledcomponents,tailwind,redux,bootstrap,nextjs,nodejs,figma&theme=dark" />
   </a>
+  </p>
 </div>
 
 ### 📫 Find me 📫
