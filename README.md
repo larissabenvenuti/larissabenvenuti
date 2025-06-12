@@ -24,6 +24,6 @@ Me chamo Larissa Benvenuti e sou desenvolvedora Full Stack em constante aprendiz
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissabenvenuti&layout=compact&langs_count=8&card_width=420&show_icons=true&theme=dracula" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissabenvenuti&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
 
