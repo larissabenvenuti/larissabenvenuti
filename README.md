@@ -1,12 +1,11 @@
 ## Hello, world!
-
-Me chamo Larissa Benvenuti e sou desenvolvedora Full Stack em constante aprendizado. Com maior experiência na área de desenvolvimento front-end, venho expandindo meus horizontes ao estudar também o back-end.
+👋 Olá! Meu nome é Larissa Benvenuti e sou desenvolvedora Front-end em constante evolução. Tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
 
 ## 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,tailwind,styledcomponents,bootstrap,nodejs,python,django,java,spring&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,tailwind,styledcomponents,bootstrap,nodejs&theme=dark" />
   </a>
   </p>
 </div>
