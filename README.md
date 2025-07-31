@@ -1,5 +1,5 @@
 ## Hello, world!
-👋 Olá! Meu nome é Larissa Benvenuti e sou desenvolvedora Front-end em constante evolução. Tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
+👋 Olá! Meu nome é Larissa Benvenuti. Sou estudante de Sistemas de Computação pela UFF e sou desenvolvedora Front-end em constante evolução. Tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
 
 ## 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
