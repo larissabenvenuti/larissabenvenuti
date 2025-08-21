@@ -1,5 +1,5 @@
 ## Hello, world!
-👋 Olá! Meu nome é Larissa Benvenuti. Sou estudante de Sistemas de Computação pela UFF e sou desenvolvedora Front-end em constante evolução. Tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
+👋 Olá! Meu nome é Larissa Benvenuti. Sou estudante de Sistemas de Computação pela UFF e sou desenvolvedora Front-end em constante evolução. Atualmente trabalhando como Estagiária Front-end na empresa Avanti, tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
 
 ## 👩🏻‍💻 Tech Skills 👩🏻‍💻
 <div>
@@ -19,9 +19,6 @@
 
 ## Estatísticas
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&theme=dracula" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissabenvenuti&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
 </a>
