@@ -1,25 +1,57 @@
-## Hello, world!
-👋 Olá! Meu nome é Larissa Benvenuti. Sou estudante de Sistemas de Computação pela UFF e sou desenvolvedora Front-end em constante evolução. Atualmente trabalhando como Estagiária Front-end na empresa Avanti, tenho experiência com desenvolvimento web e estou sempre buscando aprimorar minhas habilidades, explorando novas tecnologias e boas práticas para criar interfaces modernas, acessíveis e responsivas.
+# 👋 Hi! I'm Larissa Benvenuti
 
-## 👩🏻‍💻 Tech Skills 👩🏻‍💻
-<div>
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,ts,tailwind,styledcomponents,bootstrap,nodejs&theme=dark" />
+<div align="left">
+  <a href="https://www.linkedin.com/in/larissabenvenuti/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DE89FC" alt="LinkedIn" />
   </a>
-  </p>
+  <a href="mailto:larissabenvenutia@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DE89FC" alt="Email" />
+  </a>
 </div>
 
-## 📫 Find me 📫
-<div>
-<a href = "mailto:larissabenvenutia@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/larissabenvenuti" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<br>
+
+## 👩‍💻 About Me
+
+- 💻 **Front-End Developer Intern** at Avanti | Passionate about creating modern, accessible, and user-centric web interfaces.
+- 🎓 Currently studying **Sistemas de Computação** at Universidade Federal Fluminense (UFF).
+- 🚀 Building projects like the **Mind Align** productivity app and a custom restaurant search platform called "Restaurantes do Brasil".
+- 🌱 Constantly learning and deeply interested in the **Game Dev** and **UI/UX** fields.
+
+<br>
+
+## 🛠️ Working With
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass" title="Sass"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" alt="Styled Components" title="Styled Components"/>
+  &nbsp;
+  <img src="https://github.com/vtex.png" width="40" alt="VTEX" title="VTEX"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
 </div>
 
+<br>
 
-## Estatísticas
+## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=larissabenvenuti&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dracula" />
-</a>
-
+<div align="left">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&bg_color=0D1117&title_color=DE89FC&text_color=FFFFFF&icon_color=DE89FC&border_color=30363D&hide=stars,issues,contribs&commits_year=2026" alt="Larissa's GitHub Stats" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabenvenuti&bg_color=0D1117&title_color=DE89FC&text_color=FFFFFF&border_color=30363D&layout=donut" alt="Top Languages" />
+</div>
