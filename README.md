@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-- 💻 **Front-End Developer Intern** at Avanti | Passionate about creating modern, accessible, and user-centric web interfaces.
+- 💻 **Front-End Developer** at Avanti | Passionate about creating modern, accessible, and user-centric web interfaces.
 - 🎓 Currently studying **Sistemas de Computação** at Universidade Federal Fluminense (UFF).
 - 🚀 Building projects like the **Mind Align** productivity app and a custom restaurant search platform called "Restaurantes do Brasil".
 - 🌱 Constantly learning and deeply interested in the **Game Dev** and **UI/UX** fields.
