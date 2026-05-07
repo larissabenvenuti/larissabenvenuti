@@ -53,5 +53,8 @@
 ## 📊 GitHub Stats
 
 <div align="left">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&bg_color=0D1117&title_color=DE89FC&text_color=FFFFFF&icon_color=DE89FC&border_color=30363D&hide=stars,issues,contribs&commits_year=2026" alt="Larissa's GitHub Stats" /><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabenvenuti&bg_color=0D1117&title_color=DE89FC&text_color=FFFFFF&border_color=30363D&layout=donut" alt="Top Languages" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=stars,issues" alt="Larissa's GitHub Stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabenvenuti&theme=dracula&layout=donut" alt="Top Languages" />
 </div>
+
+
