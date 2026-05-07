@@ -47,14 +47,3 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
 </div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=larissabenvenuti&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=stars,issues" alt="Larissa's GitHub Stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissabenvenuti&theme=dracula&layout=donut" alt="Top Languages" />
-</div>
-
-
