@@ -1,49 +1,48 @@
-# 👋 Hi! I'm Larissa Benvenuti
+# Hi, I'm Larissa Benvenuti
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/larissabenvenuti/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DE89FC" alt="LinkedIn" />
-  </a>
-  <a href="mailto:larissabenvenutia@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DE89FC" alt="Email" />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=DE89FC)](https://www.linkedin.com/in/larissabenvenuti/)
+[![Email](https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=DE89FC)](mailto:larissabenvenutia@gmail.com)
 
-<br>
+---
 
-## 👩‍💻 About Me
+## About Me
 
-- 💻 **Front-End Developer** at Avanti | Passionate about creating modern, accessible, and user-centric web interfaces.
-- 🎓 Currently studying **Sistemas de Computação** at Universidade Federal Fluminense (UFF).
-- 🚀 Building projects like the **Mind Align** productivity app and a custom restaurant search platform called "Restaurantes do Brasil".
-- 🌱 Constantly learning and deeply interested in the **Game Dev** and **UI/UX** fields.
+- Front-End Developer at **Avanti**, focused on building modern, accessible, and user-centric web interfaces.
+- Computer Science student at **Universidade Federal Fluminense (UFF)**.
+- Passionate about **UI/UX** and exploring the **Game Dev** field.
+- Building real-world projects: a digital planner, a restaurant search platform, and creative portfolios.
 
-<br>
+---
 
-## 🛠️ Working With
+## Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" title="HTML5"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" alt="CSS3" title="CSS3"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" title="JavaScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" title="TypeScript"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" alt="React" title="React"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" title="Next.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" title="Node.js"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" alt="Sass" title="Sass"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="40" alt="Styled Components" title="Styled Components"/>
-  &nbsp;
-  <img src="https://github.com/vtex.png" width="40" alt="VTEX" title="VTEX"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" title="Figma"/>
-</div>
+| Category | Technologies |
+|---|---|
+| Languages | HTML5, CSS3, JavaScript, TypeScript |
+| Frameworks / Libs | React, Next.js, Node.js |
+| Styling | Tailwind CSS, Sass, Styled Components |
+| Platforms | VTEX |
+| Design | Figma |
+
+---
+
+## Featured Projects
+
+### [Portfolio](https://github.com/larissabenvenuti/Portfolio)
+My personal portfolio built with JavaScript, showcasing my projects and skills.
+
+### [GabrielSanches-Portfolio](https://github.com/larissabenvenuti/GabrielSanches-Portfolio)
+Professional portfolio for 3D artist Gabriel Sanches, built with TypeScript.
+
+### [MindAlign-FrontEnd](https://github.com/larissabenvenuti/MindAlign-FrontEnd)
+Front-end of Mind Align, a digital planner for organization and productivity, built with TypeScript.
+
+### [Restaurantes-Brasil](https://github.com/larissabenvenuti/Restaurantes-Brasil)
+Restaurant search platform by city with a reservation system, built with JavaScript.
+
+---
+
+## Get in touch
+
+- **Email:** larissabenvenutia@gmail.com
+- **LinkedIn:** [larissabenvenuti](https://www.linkedin.com/in/larissabenvenuti/)
