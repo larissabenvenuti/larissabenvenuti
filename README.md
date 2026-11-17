@@ -12,7 +12,7 @@
 ### ✦ About Me
 
 Passionate about **UI/UX** design and exploring.  
-Currently building real-world projects: a digital planner, a restaurant search platform, and creative portfolios.
+Currently building real-world projects: a digital planner, a restaurant search platform, and creative portfolios and landing pages.
 
 <br>
 
